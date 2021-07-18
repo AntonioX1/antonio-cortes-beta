@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/antonio-cortes-beta/static/css/main.9c32e217.chunk.css",
+    "main.js": "/antonio-cortes-beta/static/js/main.9e7c3e4e.chunk.js",
+    "main.js.map": "/antonio-cortes-beta/static/js/main.9e7c3e4e.chunk.js.map",
+    "runtime-main.js": "/antonio-cortes-beta/static/js/runtime-main.7c8eaa5a.js",
+    "runtime-main.js.map": "/antonio-cortes-beta/static/js/runtime-main.7c8eaa5a.js.map",
+    "static/js/2.bed69f70.chunk.js": "/antonio-cortes-beta/static/js/2.bed69f70.chunk.js",
+    "static/js/2.bed69f70.chunk.js.map": "/antonio-cortes-beta/static/js/2.bed69f70.chunk.js.map",
+    "index.html": "/antonio-cortes-beta/index.html",
+    "static/css/main.9c32e217.chunk.css.map": "/antonio-cortes-beta/static/css/main.9c32e217.chunk.css.map",
+    "static/js/2.bed69f70.chunk.js.LICENSE.txt": "/antonio-cortes-beta/static/js/2.bed69f70.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.7c8eaa5a.js",
+    "static/js/2.bed69f70.chunk.js",
+    "static/css/main.9c32e217.chunk.css",
+    "static/js/main.9e7c3e4e.chunk.js"
+  ]
+}
