@@ -1,0 +1,28 @@
+.section__about {
+  align-items: center;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
+}
+
+.about__who_I_am {
+  margin-bottom: 21%;
+  width: 331px;
+}
+
+.about__info {
+  width: 863px;
+}
+
+.about__info_container {
+  align-items: flex-end;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
+  margin-bottom: 50px;
+  width: 100%;
+}
+
+.about__paragraph {
+  width: 490px;
+}

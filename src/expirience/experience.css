@@ -1,0 +1,55 @@
+.section__experience {
+  align-items: center;
+  display: flex;
+  flex-wrap: wrap;
+  flex-direction: column;
+  height: 100vh;
+  justify-content: center;
+}
+
+.experience__my_jobs {
+  color: #394153;
+  font-size: 50px;
+  font-weight: 700;
+  margin-top: 46px;
+  margin-bottom: 109px;
+}
+
+.experience__container {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
+  width: 100%;
+}
+
+.experience__csv {
+  width: 333px;
+}
+
+.experience__text {
+  color: #767E90;
+  font-size: 16px;
+  margin-bottom: 24px;
+}
+
+.experience__timeline {
+  align-items: center;
+  display: flex;
+  justify-content: center;
+  width: 730px;
+}
+
+.experience__item {
+  display: flex;
+  flex-wrap: wrap;
+  border-bottom: 1px solid #DEDBDB;
+}
+
+.experience__job {
+  height: 132px;
+  width: 260px;
+}
+
+.experience__describe {
+  width: 464px;
+}

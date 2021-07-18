@@ -1,0 +1,29 @@
+.banner {
+	align-items: center;
+	display: flex;
+	flex-wrap: wrap;
+	height: 100vh;
+}
+
+.banner__info {
+	display: flex;
+	height: 510px;
+	flex-wrap: wrap;
+	width: 481px;
+}
+
+.banner__links {
+	align-self: flex-end;
+}
+
+.banner__image {
+	margin: auto;
+}
+
+.banner__image img {
+	width: 315px;
+}
+
+.banner .button__outline_primary {
+	margin-left: 32px;
+}

@@ -1,0 +1,8 @@
+.heading__primary {
+	font-size: 72px;
+}
+
+.heading__primary--bold {
+  color: #323E8F;
+  font-family: 'Inter';
+}

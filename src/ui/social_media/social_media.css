@@ -1,0 +1,29 @@
+.social_media {
+  display: flex;
+  flex-wrap: wrap;
+  list-style: none;
+  padding: 0px;
+  margin: 0px;
+}
+
+.social_media__item {
+  font-size: 35px;
+  margin-right: 51.4px;
+  margin-bottom: 42.2px;
+}
+
+.social_media__facebook {
+  color: #1976D2;
+}
+
+.social_media__reddit {
+  color: #FF9800;
+}
+
+.social_media__twitter {
+  color: #03A9F4;
+}
+
+.social_media__github {
+  color: #394153;
+}

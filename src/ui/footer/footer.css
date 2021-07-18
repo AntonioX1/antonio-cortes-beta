@@ -1,0 +1,33 @@
+footer {
+  align-items: center;
+  display: flex;
+  height: 414px;
+  flex-flow: column;
+  justify-content: flex-end;
+  padding-bottom: 30px;
+}
+
+.footer__developer {
+  color: #6EE5CA;
+  font-family: 'inter';
+  font-weight: 700;
+  margin-bottom: 64.8px;
+}
+
+.footer__info {
+  color: #767E90;
+  font-size: 16px;
+  text-align: center;
+  width: 863px;
+}
+
+.footer__copyright {
+  color: #767E90;
+  font-size: 16px;
+  margin-top: 115px;
+}
+
+.footer__creator {
+  color: #C67FBB;
+  text-decoration: none;
+}
